@@ -1,10 +1,10 @@
-# SushiSwap
+# Pandaswap
 
-https://sushiswap.fi.
+https://pandaswap.exchange
 
 ## Deployed Contracts
 
-https://dev.sushiswap.fi/sushiswap/contracts
+https://dev.pandaswap.app/pandaswap/contracts
 
 ## Docs
 
